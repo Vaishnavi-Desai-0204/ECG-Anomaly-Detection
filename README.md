@@ -2,12 +2,12 @@
 
 ECG arrhythmia classification using a 2-D convolutional neural network.
 
-The Autoencoder folder contains a basic model for anamoly detction using tensorflow for ECG signals , it is not the final model implemented.
+The Autoencoder folder contains a basic model for anomaly detection using tensorflow for ECG signals , it is not the final model implemented.
 
 This is an implementation of this paper: https://arxiv.org/pdf/1804.06812.pdf
 
-The model was trained on MIT-BIH Arrythmia dataset.
-This is the link to the model's weights: 
+The model -model.py was trained on MIT-BIH Arrythmia dataset.
+This is the link to the model's weights: https://drive.google.com/drive/u/0/my-drive
 
 The model can detect arrythmias of 6 types: 
 1. Atrial premature contraction beat (APC)
